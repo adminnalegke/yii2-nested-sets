@@ -1,6 +1,6 @@
 <?php
 
-namespace nighthtr\nestedsets;
+namespace adminnalegke\nestedsets;
 
 class NestedSetsBehavior extends \creocoder\nestedsets\NestedSetsBehavior
 {

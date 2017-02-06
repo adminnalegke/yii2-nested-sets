@@ -1,6 +1,6 @@
 <?php
 
-namespace nighthtr\nestedsets;
+namespace adminnalegke\nestedsets;
 
 class NestedSetsQueryBehavior extends \creocoder\nestedsets\NestedSetsQueryBehavior
 {

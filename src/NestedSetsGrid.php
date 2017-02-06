@@ -1,6 +1,6 @@
 <?php
 
-namespace nighthtr\nestedsets;
+namespace adminnalegke\nestedsets;
 
 use Yii;
 use yii\helpers\Url;
